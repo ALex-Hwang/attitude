@@ -1,7 +1,5 @@
-/data/zju/
-/data/all/
 /embedding/
 /zju.csv
 /checkpoints/
 *.libbaiduNaviSDK.a
-
+/data/
